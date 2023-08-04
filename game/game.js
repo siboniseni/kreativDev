@@ -2,7 +2,6 @@ function computerPlay() {
   // Generate a random number between 0 and 2 inclusive
   const choice = Math.floor(Math.random() * 3);
 
-  // Map the random number to 'Rock', 'Paper', or 'Scissors'
   if (choice === 0) {
     return 'rock';
   } else if (choice === 1) {
