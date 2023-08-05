@@ -45,8 +45,6 @@ function playRound(playerSelection, computerSelection) {
 }
 
 // The rest of your code remains unchanged...
-
-// Main function to run the game
 function game() {
     let playerScore = 0;
     let computerScore = 0;
