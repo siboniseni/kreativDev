@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors Game
 
-https://siboniseni.github.io/kreativDev/
 
 A simple command-line implementation of the classic Rock-Paper-Scissors game in JavaScript.
 
